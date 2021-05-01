@@ -3,6 +3,9 @@
  - CQRS
  - RabbitMQ
  - Docker
+ - MediatR
+ - Swagger
+ - fake repository
 
 # docker commands
 
