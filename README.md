@@ -1,4 +1,4 @@
-# Basic example .NET core app
+# Basic example Cqrs app
 
  - CQRS
  - RabbitMQ
